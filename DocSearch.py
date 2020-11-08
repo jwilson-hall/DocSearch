@@ -5,8 +5,8 @@
 import math
 import numpy as np
 
-txtFile = "docs.txt"
-queryFile = "queries.txt"
+txtFile = "set3/docs.txt"
+queryFile = "set3/queries.txt"
 queryWords = []
 docWords = []
 unique_words = dict()
