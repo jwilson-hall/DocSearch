@@ -1,12 +1,12 @@
 # DocSearch
 
-##ASSIGNMENT
+## ASSIGNMENT
 
 Write a Python application program (main file called DocSearch.py) that implements document searching
 based on vector-based document matching as well as inverted index, as discussed in the lectures.
 
-Input and Output. The input to your program involves two text files docs.txt which contains all
-the documents in the corpus and queries.txt which includes all the queries.
+**Input and Output**. The input to your program involves two text files **docs.txt** which contains all
+the documents in the corpus and **queries.txt** which includes all the queries.
 
 The file docs.txt is a text file with each line containing the content of a document. To simplify your work,
 stopwords and symbols not related to words have already been removed, and letters have been converted
